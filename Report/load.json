@@ -1,0 +1,286 @@
+{
+  "aggregate": {
+    "counters": {
+      "vusers.created_by_name.0": 10,
+      "vusers.created": 10,
+      "browser.http_requests": 739,
+      "vusers.failed": 0,
+      "vusers.completed": 10
+    },
+    "rates": {},
+    "firstCounterAt": 1665229420831,
+    "firstHistogramAt": 1665229423803,
+    "lastCounterAt": 1665229434906,
+    "lastHistogramAt": 1665229434906,
+    "firstMetricAt": 1665229420831,
+    "lastMetricAt": 1665229434906,
+    "period": 1665229430000,
+    "summaries": {
+      "browser.page.FCP.https://panel.niagahoster.co.id/login": {
+        "min": 1772.1,
+        "max": 2657.7,
+        "count": 10,
+        "p50": 1826.6,
+        "median": 1826.6,
+        "p75": 1939.5,
+        "p90": 2465.6,
+        "p95": 2465.6,
+        "p99": 2465.6,
+        "p999": 2465.6
+      },
+      "browser.page.TTFB.https://panel.niagahoster.co.id/login": {
+        "min": 1385.5,
+        "max": 2308.7,
+        "count": 10,
+        "p50": 1495.5,
+        "median": 1495.5,
+        "p75": 1525.7,
+        "p90": 1720.2,
+        "p95": 1720.2,
+        "p99": 1720.2,
+        "p999": 1720.2
+      },
+      "browser.page.LCP.https://panel.niagahoster.co.id/login": {
+        "min": 1804.1,
+        "max": 2836,
+        "count": 10,
+        "p50": 1978.7,
+        "median": 1978.7,
+        "p75": 2059.5,
+        "p90": 2465.6,
+        "p95": 2465.6,
+        "p99": 2465.6,
+        "p999": 2465.6
+      },
+      "browser.page.CLS.https://panel.niagahoster.co.id/login": {
+        "min": 0,
+        "max": 0,
+        "count": 10,
+        "p50": 0,
+        "median": 0,
+        "p75": 0,
+        "p90": 0,
+        "p95": 0,
+        "p99": 0,
+        "p999": 0
+      },
+      "vusers.session_length": {
+        "min": 4980.7,
+        "max": 7348.8,
+        "count": 10,
+        "p50": 5272.4,
+        "median": 5272.4,
+        "p75": 5487.5,
+        "p90": 5944.6,
+        "p95": 5944.6,
+        "p99": 5944.6,
+        "p999": 5944.6
+      }
+    },
+    "histograms": {
+      "browser.page.FCP.https://panel.niagahoster.co.id/login": {
+        "min": 1772.1,
+        "max": 2657.7,
+        "count": 10,
+        "p50": 1826.6,
+        "median": 1826.6,
+        "p75": 1939.5,
+        "p90": 2465.6,
+        "p95": 2465.6,
+        "p99": 2465.6,
+        "p999": 2465.6
+      },
+      "browser.page.TTFB.https://panel.niagahoster.co.id/login": {
+        "min": 1385.5,
+        "max": 2308.7,
+        "count": 10,
+        "p50": 1495.5,
+        "median": 1495.5,
+        "p75": 1525.7,
+        "p90": 1720.2,
+        "p95": 1720.2,
+        "p99": 1720.2,
+        "p999": 1720.2
+      },
+      "browser.page.LCP.https://panel.niagahoster.co.id/login": {
+        "min": 1804.1,
+        "max": 2836,
+        "count": 10,
+        "p50": 1978.7,
+        "median": 1978.7,
+        "p75": 2059.5,
+        "p90": 2465.6,
+        "p95": 2465.6,
+        "p99": 2465.6,
+        "p999": 2465.6
+      },
+      "browser.page.CLS.https://panel.niagahoster.co.id/login": {
+        "min": 0,
+        "max": 0,
+        "count": 10,
+        "p50": 0,
+        "median": 0,
+        "p75": 0,
+        "p90": 0,
+        "p95": 0,
+        "p99": 0,
+        "p999": 0
+      },
+      "vusers.session_length": {
+        "min": 4980.7,
+        "max": 7348.8,
+        "count": 10,
+        "p50": 5272.4,
+        "median": 5272.4,
+        "p75": 5487.5,
+        "p90": 5944.6,
+        "p95": 5944.6,
+        "p99": 5944.6,
+        "p999": 5944.6
+      }
+    }
+  },
+  "intermediate": [
+    {
+      "counters": {
+        "vusers.created_by_name.0": 10,
+        "vusers.created": 10,
+        "browser.http_requests": 501,
+        "vusers.failed": 0,
+        "vusers.completed": 3
+      },
+      "rates": {},
+      "firstCounterAt": 1665229420831,
+      "firstHistogramAt": 1665229423803,
+      "lastCounterAt": 1665229429999,
+      "lastHistogramAt": 1665229429527,
+      "firstMetricAt": 1665229420831,
+      "lastMetricAt": 1665229429999,
+      "period": "1665229420000",
+      "summaries": {
+        "browser.page.FCP.https://panel.niagahoster.co.id/login": {
+          "min": 1772.1,
+          "max": 2657.7,
+          "count": 7,
+          "p50": 1826.6,
+          "median": 1826.6,
+          "p75": 2143.5,
+          "p90": 2465.6,
+          "p95": 2465.6,
+          "p99": 2465.6,
+          "p999": 2465.6
+        },
+        "browser.page.TTFB.https://panel.niagahoster.co.id/login": {
+          "min": 1428.9,
+          "max": 2308.7,
+          "count": 5,
+          "p50": 1495.5,
+          "median": 1495.5,
+          "p75": 1720.2,
+          "p90": 1720.2,
+          "p95": 1720.2,
+          "p99": 1720.2,
+          "p999": 1720.2
+        },
+        "browser.page.LCP.https://panel.niagahoster.co.id/login": {
+          "min": 1951.3,
+          "max": 2836,
+          "count": 5,
+          "p50": 2143.5,
+          "median": 2143.5,
+          "p75": 2465.6,
+          "p90": 2465.6,
+          "p95": 2465.6,
+          "p99": 2465.6,
+          "p999": 2465.6
+        },
+        "browser.page.CLS.https://panel.niagahoster.co.id/login": {
+          "min": 0,
+          "max": 0,
+          "count": 5,
+          "p50": 0,
+          "median": 0,
+          "p75": 0,
+          "p90": 0,
+          "p95": 0,
+          "p99": 0,
+          "p999": 0
+        },
+        "vusers.session_length": {
+          "min": 4980.7,
+          "max": 5888.3,
+          "count": 3,
+          "p50": 5598.4,
+          "median": 5598.4,
+          "p75": 5598.4,
+          "p90": 5598.4,
+          "p95": 5598.4,
+          "p99": 5598.4,
+          "p999": 5598.4
+        }
+      },
+      "histograms": {
+        "browser.page.FCP.https://panel.niagahoster.co.id/login": {
+          "min": 1772.1,
+          "max": 2657.7,
+          "count": 7,
+          "p50": 1826.6,
+          "median": 1826.6,
+          "p75": 2143.5,
+          "p90": 2465.6,
+          "p95": 2465.6,
+          "p99": 2465.6,
+          "p999": 2465.6
+        },
+        "browser.page.TTFB.https://panel.niagahoster.co.id/login": {
+          "min": 1428.9,
+          "max": 2308.7,
+          "count": 5,
+          "p50": 1495.5,
+          "median": 1495.5,
+          "p75": 1720.2,
+          "p90": 1720.2,
+          "p95": 1720.2,
+          "p99": 1720.2,
+          "p999": 1720.2
+        },
+        "browser.page.LCP.https://panel.niagahoster.co.id/login": {
+          "min": 1951.3,
+          "max": 2836,
+          "count": 5,
+          "p50": 2143.5,
+          "median": 2143.5,
+          "p75": 2465.6,
+          "p90": 2465.6,
+          "p95": 2465.6,
+          "p99": 2465.6,
+          "p999": 2465.6
+        },
+        "browser.page.CLS.https://panel.niagahoster.co.id/login": {
+          "min": 0,
+          "max": 0,
+          "count": 5,
+          "p50": 0,
+          "median": 0,
+          "p75": 0,
+          "p90": 0,
+          "p95": 0,
+          "p99": 0,
+          "p999": 0
+        },
+        "vusers.session_length": {
+          "min": 4980.7,
+          "max": 5888.3,
+          "count": 3,
+          "p50": 5598.4,
+          "median": 5598.4,
+          "p75": 5598.4,
+          "p90": 5598.4,
+          "p95": 5598.4,
+          "p99": 5598.4,
+          "p999": 5598.4
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+config:
+  target: https://www.artillery.io
+  phases:
+    - arrivalRate: 1
+      duration: 10
+  # Enable the Playwright engine:
+  engines:
+    playwright: {}
+  processor: "../playwright/playwrightload.js"
+scenarios:
+  - engine: playwright
+    flowFunction: "helloFlow"
+    flow: []
